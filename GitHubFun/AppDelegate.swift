@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  GitHubFun
-//
-//  Created by Paul Finlay on 09/10/2017.
-//  Copyright © 2017 Paul Finlay. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
